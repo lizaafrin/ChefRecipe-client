@@ -22,6 +22,6 @@ Icon -> [React Icons](https://react-icons.github.io/react-icons)
 ## Live Link
 Hosted in Firebase -> https://chef-recipe-hunter-3bf76.web.app/
 
+## Server side Repo:
+Repo Link -> https://github.com/lizaafrin/chef-recipe-hunter-server-side
 
-## Build Your Career Template
-Github Private Repo -> https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-lizaafrin
